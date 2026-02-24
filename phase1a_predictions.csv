@@ -1,0 +1,17 @@
+game,game_id,home_team,away_team,HomeWinProb
+1,game_1,brazil,kazakhstan,0.9588018254754163
+2,game_2,netherlands,mongolia,0.3532079958346679
+3,game_3,peru,rwanda,0.7020033162985903
+4,game_4,thailand,oman,0.9056094286613638
+5,game_5,pakistan,germany,0.5512352280289223
+6,game_6,india,usa,0.7732070550740944
+7,game_7,panama,switzerland,0.6955840690607954
+8,game_8,iceland,canada,0.6947663907615287
+9,game_9,china,france,0.7918348364642531
+10,game_10,philippines,morocco,0.2882471413249855
+11,game_11,ethiopia,saudi_arabia,0.8323239559632704
+12,game_12,singapore,new_zealand,0.8698542237929926
+13,game_13,guatemala,south_korea,0.43542321861467487
+14,game_14,uk,mexico,0.06610044266857248
+15,game_15,vietnam,serbia,0.22514777566848596
+16,game_16,indonesia,uae,0.5186327329551952
